@@ -1,2 +1,4 @@
 # QTN-VQC
-Using Quantum Tensor Network for Variational Quantum Circuits
+An Implementation of Quantum Tensor Network for Variational Quantum Circuits
+
+## To run the experiments of PCA-VQC and TTN-VQC, 
