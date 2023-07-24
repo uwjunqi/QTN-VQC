@@ -17,6 +17,8 @@ pip3 install torchquantum
 python qtn_vqc.py
 ```
 
+## Paper Citation
+
 Besides, the repo is associated with our new updated paper below
 
 Jun Qi, Chao-Han Huck Yang, Pin-Yu Chen, "QTN-VQC: An End-to-End Learning Framework for Quantum Neural Networks," arXiv:2110.03861v3, in Submission.
