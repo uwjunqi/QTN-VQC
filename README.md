@@ -7,3 +7,8 @@ To simulate the empirical results of QTN-VQC, please run the following command:
 ```
 python qtn_vqc.py
 ```
+
+Besides, the repo is associated with our new updated paper
+
+Jun Qi, Chao-Han Huck Yang, Pin-Yu Chen, "QTN-VQC: An End-to-End Learning Framework for Quantum Neural Networks," arXiv:2110.03861v3, in Submission.
+
